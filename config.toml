@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://AmyLedesma.GitHub.io"
 languageCode = "en"
 defaultContentLanguage = "en-US"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "www.Davsk.com - Appropriate Use of Advanced Technology"
+title = "Amy Ledesma - Providing Southern Hospitality"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-davsk"
@@ -11,10 +11,10 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 5                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = "Davsk&#8480"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = "Amy Ledesma"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "David Skinner"
+  name = "Amy Ledesma"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -56,12 +56,12 @@ copyright = "Davsk&#8480"            # default: author.name ↓        # 默认�
   version = "3.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2005"            # Site creation time          # 站点建立时间
+  since = "2018"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "www.Davsk.com"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "AmyLedesma"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","Davsk"]
-  description = "www.Davsk.com educational site."
+  description = "AmyLedesma.GitHub.io Amy Ledesma Provides Southern Hospitality. Help site for SAE (Southern American English) language and culture."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 5
@@ -83,7 +83,7 @@ copyright = "Davsk&#8480"            # default: author.name ↓        # 默认�
 
   postMetaInFooter = true   # contain author, lastMod, markdown link, license           # 包含作者，上次修改时间，markdown链接，许可信息
   linkToMarkDown = false    # Only effective when hugo will output .md files.           # 链接到markdown原始文件（仅当允许hugo生成markdown文件时有效）
-  contentCopyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Davsk.Net - Appropriate Use of Advanced Technology</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.davsk.net" property="cc:attributionName" rel="cc:attributionURL">David L. Skinner</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
+  contentCopyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Amy Ledesma - Providing Southern Hospitality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://AmyLedesma.GitHub.io" property="cc:attributionName" rel="cc:attributionURL">Amy Ledesma</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
 
   changyanAppid = ""        # Changyan app id             # 畅言
   changyanAppkey = ""       # Changyan app key
